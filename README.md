@@ -5,7 +5,7 @@ This is my seminar paper that I wrote as part of my degree program at the Open U
 
 Anyone who wants to read it, study it, make comments on it, or otherwise use it should feel welcome to do so.
 
-Any mistakes or omissions are mine, although I have strived to make it as accurate and complete as possible. If you find any errors, feel free to open an issue.
+Any mistakes or omissions are mine, although I have strived to make it as accurate and complete as possible. If you find any errors, feel free to open an issue on Github.
 
 
 
